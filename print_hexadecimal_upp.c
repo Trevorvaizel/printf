@@ -51,3 +51,4 @@ char *string_to_upper(char *s)
 
 	return (s);
 }
+
